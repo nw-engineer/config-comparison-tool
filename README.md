@@ -2,6 +2,10 @@
 
 This app is a comparison app for Config files, Code, etc.
 
+
+https://github.com/nw-engineer/config-comparison-tool/assets/28122316/5e373b13-8b42-438d-959a-fd75d44585d9
+
+
 ## composition
 - OS：Linux
 - node：v16.18.1
