@@ -23,7 +23,7 @@ http://_IPaddress_:3000
 git clone https://github.com/nw-engineer/config-comparison-tool.git
 cd config-comparison-tool
 cp app.conf /etc/nginx/conf.d/
-mkdir /var/www/html/
+mkdir -p /var/www/html/
 mv build.tar.gz /var/www/html/
 cd /var/www/html/
 tar zxvf build.tar.gz && chown -R nginx:nginx build && rm -rf build.tar.gz
